@@ -634,7 +634,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: NETCODE FOR GAMEOBJECTS
+  m_text: IDKYET
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -1477,7 +1477,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &549733943
 RectTransform:
   m_ObjectHideFlags: 0
@@ -1495,7 +1495,10 @@ RectTransform:
   - {fileID: 726073293}
   - {fileID: 1144388988}
   - {fileID: 1092532896}
+<<<<<<< HEAD
   - {fileID: 941791172}
+=======
+>>>>>>> parent of ce98f66 (IPAdress field)
   m_Father: {fileID: 1044976824}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
@@ -2591,10 +2594,10 @@ GameObject:
   m_Component:
   - component: {fileID: 1044976824}
   - component: {fileID: 1044976828}
-  - component: {fileID: 1044976829}
   - component: {fileID: 1044976827}
   - component: {fileID: 1044976826}
   - component: {fileID: 1044976825}
+  - component: {fileID: 1044976829}
   m_Layer: 0
   m_Name: UIManager
   m_TagString: Untagged
@@ -2718,7 +2721,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hostButton: {fileID: 2076499463}
   clientButton: {fileID: 726073294}
+<<<<<<< HEAD
   ipAddressInput: {fileID: 941791173}
+=======
+>>>>>>> parent of ce98f66 (IPAdress field)
 --- !u!1 &1049728730
 GameObject:
   m_ObjectHideFlags: 0
@@ -3823,6 +3829,7 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1499581745}
   m_CullTransparentMesh: 1
+<<<<<<< HEAD
 --- !u!1 &1548190892
 GameObject:
   m_ObjectHideFlags: 0
@@ -3902,6 +3909,8 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1548190892}
   m_CullTransparentMesh: 1
+=======
+>>>>>>> parent of ce98f66 (IPAdress field)
 --- !u!1 &1842621100
 GameObject:
   m_ObjectHideFlags: 0
